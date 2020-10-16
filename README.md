@@ -1,6 +1,6 @@
 # Pymaceuticals Project (matplotlib-challenge)
 
-### In this project, I take everything I've learned about matplotlib thus far and used it towards this repository.
+In this project, I take everything I've learned about matplotlib thus far and used it towards this repository.
 
 ## Background
 
@@ -34,3 +34,8 @@ I was instructed to perform the following tasks:
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
   Plot the linear regression model on top of the previous scatter plot.
+
+## Respository Contents
+Located in the `Pymaceuticals` folder is a Jupyter notebook containing the Python program that creates all of the aforementioned charts above. My analysis of this data is also included at the top of the notebook.
+
+Within the `Resources` folder there are two csv files: One contains the metadata for each of the 249 mice including which drug they were on, their sex, their age in months as well as their weight.

@@ -38,4 +38,4 @@ I was instructed to perform the following tasks:
 ## Respository Contents
 Located in the `Pymaceuticals` folder is a Jupyter notebook containing the Python program that creates all of the aforementioned charts above. My analysis of this data is also included at the top of the notebook.
 
-Within the `Resources` folder there are two csv files: One contains the metadata for each of the 249 mice including which drug they were on, their sex, their age in months as well as their weight.
+Within the `Resources` folder there are two csv files: One contains the metadata for each of the 249 mice including which drug they were on, their sex, their age in months as well as their weight. The second file contains data on the tumor volume in the mice over different timepoints. 
